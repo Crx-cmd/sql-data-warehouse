@@ -1,6 +1,6 @@
 Data Warehouse - Informationen
 
-![Jobs](docs/img/jobs.png)
+![Jobs](/img/jobs.png)
 
 ETL stands for Extract, Transform, Load. It is a process used in data integration and data warehousing to collect data from various sources, convert it into a suitable format, and store it in a destination system, such as a database or data warehouse.
 
